@@ -6,7 +6,7 @@ Classifying galaxy morphologies using deep learning.
 
 Use a deep convolutional neural network [1] and transfer learning to classify images of galaxies by their morphology (smooth galaxy or spiral galaxy).
 
-![](img/convolution.png)
+![](img/cnn_2.png)
 
 ![](img/transfer_learn_1.png)
 
